@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+h1{
+    color: rgb(255,200,100);
+    background-color: rgb(45, 75, 150);
+}
+#starters_image_div{
+    border-style: solid;
+    border-color: rgb(45, 75, 150);
+}
+h2{
+    text-align: left;
+}
+.list{
+    text-align: left;
+}
+#squirtle_container, #charmander_container, #bulbasaur_container{
+    border-style: solid;
+    border-radius: 15px;
+    border-color: rgb(255,255, 175);
+    text-align: left;
+    margin: 20px;
+    padding: 15px;
+
+}
+
+#bulbasaur_container{
+    background-color: rgb(100,255,100);
+}
+
+#charmander_container{
+    background-color: rgb(255,200,150)
+}
+
+#squirtle_container{
+    background-color: rgb(150, 200, 255);
+}
+
+footer{
+    text-align: left;
+    margin-top: 100px;
+}

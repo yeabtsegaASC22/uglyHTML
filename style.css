@@ -2,14 +2,17 @@ body{
     text-align: center;
     background-color: black;
     color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
 }
 h1{
     color: rgb(255,200,100);
     background-color: rgb(45, 75, 150);
 }
-#starters_image_div{
+#starters_image_div img{
     border-style: solid;
     border-color: rgb(45, 75, 150);
+    padding: 3px;
 }
 h2{
     text-align: left;
@@ -24,11 +27,10 @@ h2{
     text-align: left;
     margin: 20px;
     padding: 15px;
-
 }
 
 #bulbasaur_container{
-    background-color: rgb(100,255,100);
+    background-color: rgb(150,230,150);
 }
 
 #charmander_container{
@@ -42,4 +44,5 @@ h2{
 footer{
     text-align: left;
     margin-top: 100px;
+    font-weight: normal;
 }
